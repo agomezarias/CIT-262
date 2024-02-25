@@ -1,0 +1,6 @@
+{
+    "userName":"alberto_gomez_arias@hotmail.com",
+    "password":"OliverKK11*"
+}
+
+// curl -d @data.json -H "Content-Type: application/json" -X POST https://dev.stedi.me/
